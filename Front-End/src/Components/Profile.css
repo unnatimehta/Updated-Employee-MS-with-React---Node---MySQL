@@ -1,0 +1,7 @@
+.profile-image {
+    width: 150px; /* Adjust width */
+    height: 150px; /* Adjust height */
+    object-fit: cover; /* Crop to fit */
+    border-radius: 8px; /* Optional: rounded corners */
+  }
+  
